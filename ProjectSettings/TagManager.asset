@@ -25,9 +25,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
   - 
   - 
   - 
@@ -38,17 +38,29 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BackGround
+    uniqueID: 830916051
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: BackGround
-    uniqueID: 529206233
+  - name: Walls
+    uniqueID: 2035707293
+    locked: 0
+  - name: Objects
+    uniqueID: 4291801703
     locked: 0
   - name: Characters
-    uniqueID: 1747203085
+    uniqueID: 2882270621
     locked: 0
-  - name: UI
-    uniqueID: 3567321111
+  - name: Layer 1
+    uniqueID: 2425651459
+    locked: 0
+  - name: Layer 2
+    uniqueID: 4250941897
+    locked: 0
+  - name: Layer 3
+    uniqueID: 4189426099
     locked: 0
   m_RenderingLayers:
   - Default
