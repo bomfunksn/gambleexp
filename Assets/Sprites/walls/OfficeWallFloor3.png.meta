@@ -1,0 +1,1247 @@
+fileFormatVersion: 2
+guid: f41401967611fad47975ecff6e4db7fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2958443655166508965
+    second: OfficeWallFloor3_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OfficeWallFloor3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af353274d08e0920800000000000000
+      internalID: 2958443655166508965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e42ceedd46b054691991de45cd0adc
+      internalID: 141623272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6bd28cce1794144a27f7240f4f0729
+      internalID: -785011355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091db8749a6b40944a526063e05ba83a
+      internalID: 1704361987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b685daf4f095c46ae034724c49e0b3
+      internalID: -1758072544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a132349620b2bfc41b528ca83fb98be6
+      internalID: 229036382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_6
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b5fadcea7e3a94cb800717ce1203ba
+      internalID: -1839079937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779cdadd2494755489ed759e8564f06b
+      internalID: -2138713967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ae0bf5b916d194ab4530341818d2dc
+      internalID: -105391352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e6c6aa0accf7f478e29967320d58a9
+      internalID: 174072743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e87e0a96c4747144a0195b39668f097
+      internalID: -2075397410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb000d70a46e01942b5a4b5d6f617427
+      internalID: -1549240832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad34b0e06bd7fa47a6e6c98936910e3
+      internalID: -164898585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4761be1b050ebfc4d95e0e4ea27bcf2f
+      internalID: 436563151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_14
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00822273e386a845a0c460a32b03caf
+      internalID: -492471939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfed0c0d93a9f344af4d1e28b0ac73a
+      internalID: -1846861887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c6b876e43199247a4baa9b6f7e7f63
+      internalID: -607441843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a1755ffe9e491408f5d1bcccdca7ff
+      internalID: -1964164091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a94fcd030ac33f4281ccd96ff3d793d
+      internalID: 2099635908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645d0f1b309323a4ea1c5f95aecff7d1
+      internalID: -1098550991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_20
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e62233d88517540b375592344641ff
+      internalID: 574841121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fad5b00e6880ac4788e55a28b2c7122
+      internalID: 508706717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_22
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137f83ec43cb54545a54c1fdd3faed09
+      internalID: 1519283181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad5c418ba0bf0a44b8b565e5b523ee0
+      internalID: -2022029561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325e8b9df0f71b34c87e0e08acdc0e1d
+      internalID: 77548062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebda7f993bda054489475a0cc1b38fb
+      internalID: -345695660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d549fe52c4de644896025a1db947e5
+      internalID: -1488109765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_27
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597efbe8b6ba71d498a31477d11053e1
+      internalID: 1979025634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_28
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d81a384e4217a47a4f8d0158204746
+      internalID: 1233948507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_29
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c617b32f737de7247a47c74dea0cebd4
+      internalID: 1718426214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_30
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692ae81c439c572469a4b2ab24414104
+      internalID: 1714440422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9ae761eddc61b4bac5f06558ba75a5
+      internalID: -860483209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e4da486463aa4448ba79975ee69c26
+      internalID: -58922047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b7639267d52e74db8384b23102706d
+      internalID: 1555012938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc1146eaa87fb842bf10d37d615dcc4
+      internalID: 1745627277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_35
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7535501e71c0214ab826f598da74b1d
+      internalID: -798156011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43a1bdba914f9a408fed078fae42b15
+      internalID: -1045432039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703bb52c7894524eb410c0bb2161d73
+      internalID: -664573565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_38
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5bc5a44bfa9cb458c372bb7640f7a7
+      internalID: -2128532703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab47da846956d4f4aa671e50023fb544
+      internalID: 377178886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_40
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d537f0f0a8cf7468aa269055d1363a
+      internalID: -1126061931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345166ca2f1f5b4458b39ac25d068681
+      internalID: -994896431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2534c4a7de6781646b935129f0382695
+      internalID: 1559715270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d3971d50a9e204991a7a695d020018
+      internalID: -2085056771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98bac1acfc5984488c7322da98439b4
+      internalID: 1267568153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02da1e8e3c13bc74990316b9a5e1f18f
+      internalID: -604161828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a077ae12df5da5a4885e1855c3efad38
+      internalID: -1380514173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025f20c8e9e9d9144be869875f6c6781
+      internalID: -1046865249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeWallFloor3_48
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98487cff7ed8a7b49a1cff8a8468852b
+      internalID: -1533366737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1c9afd2ddb3689841bf8ac0ee4592a21
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OfficeWallFloor3_0: 2958443655166508965
+      OfficeWallFloor3_1: 141623272
+      OfficeWallFloor3_10: -2075397410
+      OfficeWallFloor3_11: -1549240832
+      OfficeWallFloor3_12: -164898585
+      OfficeWallFloor3_13: 436563151
+      OfficeWallFloor3_14: -492471939
+      OfficeWallFloor3_15: -1846861887
+      OfficeWallFloor3_16: -607441843
+      OfficeWallFloor3_17: -1964164091
+      OfficeWallFloor3_18: 2099635908
+      OfficeWallFloor3_19: -1098550991
+      OfficeWallFloor3_2: -785011355
+      OfficeWallFloor3_20: 574841121
+      OfficeWallFloor3_21: 508706717
+      OfficeWallFloor3_22: 1519283181
+      OfficeWallFloor3_23: -2022029561
+      OfficeWallFloor3_24: 77548062
+      OfficeWallFloor3_25: -345695660
+      OfficeWallFloor3_26: -1488109765
+      OfficeWallFloor3_27: 1979025634
+      OfficeWallFloor3_28: 1233948507
+      OfficeWallFloor3_29: 1718426214
+      OfficeWallFloor3_3: 1704361987
+      OfficeWallFloor3_30: 1714440422
+      OfficeWallFloor3_31: -860483209
+      OfficeWallFloor3_32: -58922047
+      OfficeWallFloor3_33: 1555012938
+      OfficeWallFloor3_34: 1745627277
+      OfficeWallFloor3_35: -798156011
+      OfficeWallFloor3_36: -1045432039
+      OfficeWallFloor3_37: -664573565
+      OfficeWallFloor3_38: -2128532703
+      OfficeWallFloor3_39: 377178886
+      OfficeWallFloor3_4: -1758072544
+      OfficeWallFloor3_40: -1126061931
+      OfficeWallFloor3_41: -994896431
+      OfficeWallFloor3_42: 1559715270
+      OfficeWallFloor3_43: -2085056771
+      OfficeWallFloor3_44: 1267568153
+      OfficeWallFloor3_45: -604161828
+      OfficeWallFloor3_46: -1380514173
+      OfficeWallFloor3_47: -1046865249
+      OfficeWallFloor3_48: -1533366737
+      OfficeWallFloor3_5: 229036382
+      OfficeWallFloor3_6: -1839079937
+      OfficeWallFloor3_7: -2138713967
+      OfficeWallFloor3_8: -105391352
+      OfficeWallFloor3_9: 174072743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
